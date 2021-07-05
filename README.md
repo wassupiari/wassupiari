@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iarinormanno and I'm 19 years old.
+- 👋 Hi, My name is iari and I'm 19 years old developer.
 - 👀 I’m Self learning software and web development.
 - 🌱 I’m currently learning JavaScript/ReactJS.
 - 💞️ Working on personal website [Personasimpatica.it](http://personasimpatica.it).
