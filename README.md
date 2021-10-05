@@ -1,9 +1,4 @@
-- 👋 Hi, My name is iari and I'm 19 years old developer.
-- 👀 I’m Self learning software and web development.
-- 🌱 I’m currently learning JavaScript/ReactJS.
-- 💞️ Working on personal website [Personasimpatica.it](http://personasimpatica.it).
-- ✨ Looking people for a project.
-
+I'm iari. I like programming, coffee, and rain.
 
 
 <!---
