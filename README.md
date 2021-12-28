@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarinormanno&label=Profile%20views&color=0e75b6&style=flat" alt="iarinormanno" /> </p>
 
-- 🔭 I’m currently working on [my website](iarinormanno.xyz)
+- 🔭 I’m currently working on [my website](https://github.com/iarinormanno/personalwebsite)
 
 - 🌱 I’m currently learning **Js, Deep Learning, React**
 
-- 👨‍💻 All of my projects are available at [iarinormanno.xyz/projects](iarinormanno.xyz/projects)
+- 👨‍💻 All of my projects are available at [iarinormanno.xyz/projects](https://www.iarinormanno.xyz/projects)
 
 - 💬 Ask me about **Open-source, Web Developing**
 
