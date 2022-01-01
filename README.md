@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [iarinormanno.xyz/projects](https://www.iarinormanno.xyz/projects)
 
-- 💬 Ask me about **Open-source, Web Developing**
+- 💬 Ask me about **Open-source, Web Development**
 
 - 📫 How to reach me **normannoiari@gmail.com**
 
