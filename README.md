@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarinormanno&label=Profile%20views&color=0e75b6&style=flat" alt="iarinormanno" /> </p>
 
-- 🔭 I’m currently working on [my website](https://github.com/iarinormanno/personalwebsite)
+- 🔭 I’m currently working on [my website with express.js](https://iarinormanno.xyz)
 
 - 🌱 I’m currently learning **Js, Deep Learning, React**
 
@@ -11,7 +11,10 @@
 
 - 💬 Ask me about **Open-source, Web Development**
 
-- 📫 How to reach me **normannoiari@gmail.com**
+- 📫 How to reach me:
+  - [linkedin](https://linkedin.com/in/iarinormanno)
+  - [instagram](https://instagram.com/whosiari) -- inactive
+  - [discord](https://discord.gg/dcQV9r76kx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
