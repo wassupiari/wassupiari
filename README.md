@@ -14,7 +14,7 @@
 - 📫 How to reach me:
   - [linkedin](https://linkedin.com/in/iarinormanno)
   - [instagram](https://instagram.com/whosiari) -- inactive
-  - [discord](https://discord.gg/dcQV9r76kx)
+
 
 
 
