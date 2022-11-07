@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarinormanno&label=Profile%20views&color=0e75b6&style=flat" alt="iarinormanno" /> </p>
 
-- 🌱 I’m currently learning **Js, Deep Learning, React**
+- 🌱 I’m currently learning **c, process working**
 
-- 💬 Ask me about **Open-source, Web Development**
+- 💬 Ask me about **How to procrastinate**
 
 - 📫 How to reach me:
   - [linkedin](https://linkedin.com/in/iarinormanno)
