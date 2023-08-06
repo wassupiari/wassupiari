@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm iari</h1>
-<h3 align="center">An open source enthusiast and self-taught developer from Italy</h3>
+<h3 align="center">👋 Hello! I'm Iari.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iarinormanno&label=Profile%20views&color=0e75b6&style=flat" alt="iarinormanno" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/iarinormanno">Linkedin</a> •
+  <a href="https://twitter.com/wtfiari">Twitter</a>
+</p>
 
-- 🌱 I’m currently learning **c, process working**
+---
 
-- 💬 Ask me about **How to procrastinate**
+##### Who am i?
+    I am a 21 yo university student at the University of Salerno, and programming is my passion, which helps me relax and thrive.
 
-- 📫 How to reach me:
-  - [linkedin](https://linkedin.com/in/iarinormanno)
-  - [instagram](https://instagram.com/justiari) 
+##### Here's a photo of my cats:
 
-
-
-
+| <img width="1009" alt="Mooki" src=">https://gyazo.com/f445b7173ad520529ddbc52cd43a405f" |
+| --- |
 
