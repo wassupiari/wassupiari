@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm Iari.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/iarinormanno">Linkedin</a> •
+  <a href="www.linkedin.com/in/iarinormanno">Linkedin</a> •
   <a href="https://twitter.com/wtfiari">Twitter</a>
 </p>
 
