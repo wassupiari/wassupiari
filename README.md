@@ -8,7 +8,7 @@
 ---
 
 ##### Who am i?
-I am a 21 yo university student at the University of Salerno, and programming is my passion, which helps me relax and thrive.
+I am a 21 yo student at the University of Salerno, and programming is my passion, which helps me relax and thrive.
 
 ##### Here's a photo of my cats:
 
