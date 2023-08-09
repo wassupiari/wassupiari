@@ -12,15 +12,15 @@ I am a 21 yo student at the University of Salerno, and programming is my passion
 
 ##### Here's a photo of my cats:
 
-| <img width="1009" alt="cats" src="./cats.jpg">|
+| <img width="504" alt="cats" src="./cats.jpg">|
 | --- |
 
-| <picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=wassupiari&show_icons=true&theme=gruvbox&text_color=fff"
+    media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=wassupiari&show_icons=true" />
-</picture> |
-| --- |
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragwahazra&show_icons=true" />
+</picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassupiari&hide_progress=true&theme=gruvbox&text_color=fff)
