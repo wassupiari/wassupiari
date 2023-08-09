@@ -17,7 +17,7 @@ I am a 21 yo student at the University of Salerno, and programming is my passion
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=wassupiari&show_icons=true&theme=gruvbox&text_color=fff"
+    srcset="https://github-readme-stats.vercel.app/api?username=wassupiari&theme=gruvbox&text_color=fff&hide=prs,contribs"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuragwahazra&show_icons=true" />
