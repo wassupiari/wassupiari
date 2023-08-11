@@ -15,5 +15,6 @@ I am a 21 yo student at the University of Salerno, and programming is my passion
 | <img width="909" alt="cats" src="./cats.jpg">|
 | --- |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wassupiari&theme=gruvbox&hide=prs,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassupiari&layout=compact&theme=gruvbox)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wassupiari&theme=gruvbox&hide=prs,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassupiari&layout=compact&theme=gruvbox) |
+| --- |
 
