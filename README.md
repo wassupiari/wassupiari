@@ -8,7 +8,7 @@
 ---
 
 ##### Who am i?
-I am a 21 yo student at the University of Salerno, and programming is my passion, which helps me relax and thrive.
+Hi! I am a 21-year-old student at the University of Salerno. Passionate about programming, I find in code my source of inspiration and tranquility. 🚀💻
 
 <h1 align="center"> `o._.o' </h1>
 
