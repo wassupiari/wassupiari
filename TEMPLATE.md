@@ -12,8 +12,11 @@ I love coding while drinking my hot tea.
 Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 I'm currently trying to learn how to be a good web developer.
+
+<br>
+
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
+{{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?logo=&label=&message={{LANGUAGE_NAME:uri}}&color=313131&logoColor=AAA&style=flat-square)
 {{ LANGUAGE_TEMPLATE_END }}
 &nbsp;&nbsp;&nbsp;
@@ -26,7 +29,7 @@ I'm currently trying to learn how to be a good web developer.
 ![windows](https://img.shields.io/static/v1?logo=windows&label=&message=windows&color=313131&logoColor=AAA&style=flat-square)
 ![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat-square)
 
-_a chiunque mi abbia mai insegnato qualcosa_
+
 
 
 
