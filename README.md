@@ -2,32 +2,45 @@
 
 ### Hi there ~ 👋
 
-I'm **jarek** from italy, a bored student doing computer science at at the University of Salerno.
+I'm **iari** aka _jarek_ from italy, a bored student doing computer science at at the University of Salerno.
 I love coding while drinking my hot tea.
 
-[![linkedin](https://img.shields.io/badge/linkedin-313131?style=flat-square&logo=linkedin&labelColor=grey)](https://www.linkedin.com/in/iarinormanno/) [![twitter](https://img.shields.io/badge/twitter-313131?style=flat-square&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
-[![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat-square&color=313131&label=views&abbreviated=tru)](github.com/wassupiari)
+[![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat&color=313131&label=views&abbreviated=tru)](github.com/wassupiari) [![linkedin](https://img.shields.io/badge/linkedin-313131?style=flat&logo=linkedin&labelColor=grey)](https://www.linkedin.com/in/iarinormanno/)
+[![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
 
 <br>
-Ever since I joined GitHub **4** years ago, I pushed **119** commits, opened **3** issues, submitted **1** pull requests, and contributed to **3** public repositories.
 
-I'm currently trying to learn how to be a good web developer.
+Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>124</strong> commits, opened <strong>3</strong> issues, submitted <strong>1</strong> pull requests, and contributed to <strong>3</strong> public repositories.
+
+
+
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![Java](https://img.shields.io/static/v1?logo=&label=&message=Java&color=313131&logoColor=AAA&style=flat-square)
-![PHP](https://img.shields.io/static/v1?logo=&label=&message=PHP&color=313131&logoColor=AAA&style=flat-square)
-![Lua](https://img.shields.io/static/v1?logo=&label=&message=Lua&color=313131&logoColor=AAA&style=flat-square)
-![Other](https://img.shields.io/static/v1?logo=&label=&message=Other&color=313131&logoColor=AAA&style=flat-square)
+![Java](https://img.shields.io/static/v1?logo=&label=&message=Java&color=313131&logoColor=AAA&style=flat)
+![PHP](https://img.shields.io/static/v1?logo=&label=&message=PHP&color=313131&logoColor=AAA&style=flat)
+![Lua](https://img.shields.io/static/v1?logo=&label=&message=Lua&color=313131&logoColor=AAA&style=flat)
+![C](https://img.shields.io/static/v1?logo=&label=&message=C&color=313131&logoColor=AAA&style=flat)
+![Makefile](https://img.shields.io/static/v1?logo=&label=&message=Makefile&color=313131&logoColor=AAA&style=flat)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=313131&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=313131&logoColor=AAA&style=flat-square)
-![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=313131&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=313131&logoColor=AAA&style=flat)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=313131&logoColor=AAA&style=flat)
+![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=313131&logoColor=AAA&style=flat)
 &nbsp;&nbsp;&nbsp;
 ![os](https://img.shields.io/static/v1?label=&message=OS:&color=111&style=flat-square)
-![windows](https://img.shields.io/static/v1?logo=windows&label=&message=windows&color=313131&logoColor=AAA&style=flat-square)
-![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat-square)
+![windows](https://img.shields.io/static/v1?logo=windows&label=&message=windows&color=313131&logoColor=AAA&style=flat)
+![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat)
 
-_a chiunque mi abbia mai insegnato qualcosa_
+
+I'm currently trying to learn how to not procrastinate and be a good software developer. 🩶
+
+
+
+
+
+
+
+
+
 
 
 
