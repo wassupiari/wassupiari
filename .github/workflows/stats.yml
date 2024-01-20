@@ -1,10 +1,12 @@
+name: stats update
+
 on:
   schedule:
     - cron: '0 0 * * *' # every 12 hours
   push:
     branches:
-      - master
       - main
+      - master
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -19,9 +21,9 @@ jobs:
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add *.md
-        git commit -m "Update README"
-        git push
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add *.md
+            git commit -m "Update README.md Automatically"
+            git push
         fi
