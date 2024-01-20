@@ -12,7 +12,7 @@ I love coding while drinking my hot tea.
 
 Ever since I joined GitHub  <strong>{{ ACCOUNT_AGE }} </strong> years ago, I pushed <strong>{{ COMMITS }}</strong> commits, opened <strong>{{ ISSUES }}</strong> issues, submitted <strong>{{ PULL_REQUESTS }}</strong> pull requests, and contributed to <strong>{{ REPOSITORIES_CONTRIBUTED_TO }}</strong> public repositories.
 
-&nbsp;&nbsp;&nbsp;
+
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 {{ LANGUAGE_TEMPLATE_START }}
