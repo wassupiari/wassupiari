@@ -2,10 +2,11 @@
 
 ### Hi there ~ 👋
 
-I'm **jarek** from italy, a bored student doing computer science at at the University of Salerno.
+I'm **iari** aka _jarek_ from italy, a bored student doing computer science at at the University of Salerno.
 I love coding while drinking my hot tea.
 
-[![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat&color=313131&label=views&abbreviated=tru)](github.com/wassupiari)
+[![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat&color=313131&label=views&abbreviated=tru)](github.com/wassupiari) [![linkedin](https://img.shields.io/badge/linkedin-313131?style=flat&logo=linkedin&labelColor=grey)](https://www.linkedin.com/in/iarinormanno/)
+[![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
 
 <br>
 Ever since I joined GitHub  <strong>{{ ACCOUNT_AGE }} </strong> years ago, I pushed <strong>{{ COMMITS }}</strong> commits, opened <strong>{{ ISSUES }}</strong> issues, submitted <strong>{{ PULL_REQUESTS }}</strong> pull requests, and contributed to <strong>{{ REPOSITORIES_CONTRIBUTED_TO }}</strong> public repositories.
@@ -26,7 +27,14 @@ Ever since I joined GitHub  <strong>{{ ACCOUNT_AGE }} </strong> years ago, I pus
 ![windows](https://img.shields.io/static/v1?logo=windows&label=&message=windows&color=313131&logoColor=AAA&style=flat)
 ![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat)
 
-I'm currently trying to learn how to not procrastinate and be a good software developer. 
+
+I'm currently trying to learn how to not procrastinate and be a good software developer. 🩶
+
+
+
+
+
+
 
 
 
