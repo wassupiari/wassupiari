@@ -9,9 +9,10 @@ I love coding while drinking my hot tea.
 [![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
 
 <br>
+
 Ever since I joined GitHub  <strong>{{ ACCOUNT_AGE }} </strong> years ago, I pushed <strong>{{ COMMITS }}</strong> commits, opened <strong>{{ ISSUES }}</strong> issues, submitted <strong>{{ PULL_REQUESTS }}</strong> pull requests, and contributed to <strong>{{ REPOSITORIES_CONTRIBUTED_TO }}</strong> public repositories.
 
-<br>
+&nbsp;&nbsp;&nbsp;
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 {{ LANGUAGE_TEMPLATE_START }}
