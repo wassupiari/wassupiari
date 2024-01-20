@@ -9,10 +9,11 @@ I love coding while drinking my hot tea.
 [![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat-square&color=313131&label=views&abbreviated=tru)](github.com/wassupiari)
 
 <br>
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 I'm currently trying to learn how to be a good web developer.
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+{{ LANGUAGE_TEMPLATE_START:max=4 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?logo=&label=&message={{LANGUAGE_NAME:uri}}&color=313131&logoColor=AAA&style=flat-square)
 {{ LANGUAGE_TEMPLATE_END }}
 &nbsp;&nbsp;&nbsp;
@@ -26,3 +27,16 @@ I'm currently trying to learn how to be a good web developer.
 ![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat-square)
 
 _a chiunque mi abbia mai insegnato qualcosa_
+
+
+
+
+
+
+
+
+
+
+
+
+
