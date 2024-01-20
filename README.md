@@ -9,15 +9,13 @@ I love coding while drinking my hot tea.
 [![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat-square&color=313131&label=views&abbreviated=tru)](github.com/wassupiari)
 
 <br>
+Ever since I joined GitHub **4** years ago, I pushed **118** commits, opened **3** issues, submitted **1** pull requests, and contributed to **3** public repositories.
 
 I'm currently trying to learn how to be a good web developer.
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![Java](https://img.shields.io/static/v1?logo=&label=&message=Java&color=313131&logoColor=AAA&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![PHP](https://img.shields.io/static/v1?logo=&label=&message=PHP&color=313131&logoColor=AAA&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![Lua](https://img.shields.io/static/v1?logo=&label=&message=Lua&color=313131&logoColor=AAA&style=flat-square)
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![Other](https://img.shields.io/static/v1?logo=&label=&message=Other&color=313131&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
@@ -30,3 +28,16 @@ I'm currently trying to learn how to be a good web developer.
 ![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat-square)
 
 _a chiunque mi abbia mai insegnato qualcosa_
+
+
+
+
+
+
+
+
+
+
+
+
+
