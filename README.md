@@ -10,16 +10,16 @@ I love coding while drinking my hot tea.
 
 <br>
 
-Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>129</strong> commits, opened <strong>3</strong> issues, submitted <strong>1</strong> pull requests, and contributed to <strong>3</strong> public repositories.
+Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>131</strong> commits, opened <strong>3</strong> issues, submitted <strong>1</strong> pull requests, and contributed to <strong>3</strong> public repositories.
 
 
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![Java](https://img.shields.io/static/v1?logo=&label=&message=Java&color=313131&logoColor=AAA&style=flat)
-![PHP](https://img.shields.io/static/v1?logo=&label=&message=PHP&color=313131&logoColor=AAA&style=flat)
-![Lua](https://img.shields.io/static/v1?logo=&label=&message=Lua&color=313131&logoColor=AAA&style=flat)
-![C](https://img.shields.io/static/v1?logo=&label=&message=C&color=313131&logoColor=AAA&style=flat)
 ![HTML](https://img.shields.io/static/v1?logo=&label=&message=HTML&color=313131&logoColor=AAA&style=flat)
+![PHP](https://img.shields.io/static/v1?logo=&label=&message=PHP&color=313131&logoColor=AAA&style=flat)
+![C](https://img.shields.io/static/v1?logo=&label=&message=C&color=313131&logoColor=AAA&style=flat)
+![Lua](https://img.shields.io/static/v1?logo=&label=&message=Lua&color=313131&logoColor=AAA&style=flat)
 ![Python](https://img.shields.io/static/v1?logo=&label=&message=Python&color=313131&logoColor=AAA&style=flat)
 ![JavaScript](https://img.shields.io/static/v1?logo=&label=&message=JavaScript&color=313131&logoColor=AAA&style=flat)
 ![Other](https://img.shields.io/static/v1?logo=&label=&message=Other&color=313131&logoColor=AAA&style=flat)
