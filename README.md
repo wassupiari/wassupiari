@@ -10,7 +10,7 @@ I love coding while drinking my hot tea.
 
 <br>
 
-Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>216</strong> commits, opened <strong>3</strong> issues, submitted <strong>3</strong> pull requests, and contributed to <strong>3</strong> public repositories.
+Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>217</strong> commits, opened <strong>3</strong> issues, submitted <strong>4</strong> pull requests, and contributed to <strong>3</strong> public repositories.
 
 
 
