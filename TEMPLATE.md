@@ -29,7 +29,9 @@ Ever since I joined GitHub  <strong>{{ ACCOUNT_AGE }} </strong> years ago, I pus
 ![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat)
 
 
-I'm currently trying to learn how to not procrastinate and be a good software developer. 🩶
+I'm currently working on my personal project [fantarinuncia](https://fantarinuncia.live/) and trying to not procrastinate. 🩶
+
+
 
 
 
