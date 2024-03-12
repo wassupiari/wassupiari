@@ -10,7 +10,7 @@ I love coding while drinking my hot tea.
 
 <br>
 
-Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>251</strong> commits, opened <strong>3</strong> issues, submitted <strong>8</strong> pull requests, and contributed to <strong>4</strong> public repositories.
+Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>252</strong> commits, opened <strong>3</strong> issues, submitted <strong>8</strong> pull requests, and contributed to <strong>4</strong> public repositories.
 
 
 
@@ -20,8 +20,8 @@ Ever since I joined GitHub  <strong>4 </strong> years ago, I pushed <strong>251<
 ![PHP](https://img.shields.io/static/v1?logo=&label=&message=PHP&color=313131&logoColor=AAA&style=flat)
 ![C](https://img.shields.io/static/v1?logo=&label=&message=C&color=313131&logoColor=AAA&style=flat)
 ![Python](https://img.shields.io/static/v1?logo=&label=&message=Python&color=313131&logoColor=AAA&style=flat)
-![Lua](https://img.shields.io/static/v1?logo=&label=&message=Lua&color=313131&logoColor=AAA&style=flat)
 ![JavaScript](https://img.shields.io/static/v1?logo=&label=&message=JavaScript&color=313131&logoColor=AAA&style=flat)
+![Lua](https://img.shields.io/static/v1?logo=&label=&message=Lua&color=313131&logoColor=AAA&style=flat)
 ![Other](https://img.shields.io/static/v1?logo=&label=&message=Other&color=313131&logoColor=AAA&style=flat)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
