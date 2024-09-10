@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/orhun/orhun/assets/48630736/c1c23914-7112-4d22-ba7e-a0662a4706bd">
 
-### Hi there ~ 👋
+### Hey there, reader! 👋
 
 My name is Iari Normanno from Italy, a bored student doing computer science at at the University of Salerno.
 Coding allows me to shape ideas, one bit at a time.
