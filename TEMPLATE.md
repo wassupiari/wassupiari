@@ -2,8 +2,8 @@
 
 ### Hi there ~ 👋
 
-I'm **iari** aka _jarek_ from italy, a bored student doing computer science at at the University of Salerno.
-I love coding while drinking my hot tea.
+My name is Iari Normanno from Italy, a bored student doing computer science at at the University of Salerno.
+Coding allows me to shape ideas, one bit at a time.
 
 [![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat&color=313131&label=views&abbreviated=tru)](github.com/wassupiari) [![linkedin](https://img.shields.io/badge/linkedin-313131?style=flat&logo=linkedin&labelColor=grey)](https://www.linkedin.com/in/iarinormanno/)
 [![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
@@ -29,7 +29,7 @@ Ever since I joined GitHub  <strong>{{ ACCOUNT_AGE }} </strong> years ago, I pus
 ![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat)
 
 
-I'm currently working on my personal project [fantarinuncia](https://fantarinuncia.live/) and trying to not procrastinate. 🩶
+I'm currently working on my personal website and trying to not procrastinate. 🩶
 
 
 
