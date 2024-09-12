@@ -1,9 +1,9 @@
 <img align="left" src="https://github.com/orhun/orhun/assets/48630736/c1c23914-7112-4d22-ba7e-a0662a4706bd">
 
-### Hi there ~ 👋
+### Hey there, reader! 👋
 
-I'm **iari** aka _jarek_ from italy, a bored student doing computer science at at the University of Salerno.
-I love coding while drinking my hot tea.
+My name is Iari Normanno from Italy, a bored student doing computer science at at the University of Salerno.
+Coding allows me to shape ideas, one bit at a time.
 
 [![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat&color=313131&label=views&abbreviated=tru)](github.com/wassupiari) [![linkedin](https://img.shields.io/badge/linkedin-313131?style=flat&logo=linkedin&labelColor=grey)](https://www.linkedin.com/in/iarinormanno/)
 [![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
