@@ -34,7 +34,7 @@ Ever since I joined GitHub  <strong>5 </strong> years ago, I pushed <strong>340<
 ![debian](https://img.shields.io/static/v1?logo=debian&label=&message=debian&color=313131&logoColor=AAA&style=flat)
 
 
-I'm currently working on my personal project [fantarinuncia](https://fantarinuncia.live/) and trying to not procrastinate. 🩶
+I'm currently working on my personal website and trying to not procrastinate. 🩶
 
 
 
