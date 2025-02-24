@@ -6,18 +6,20 @@ My name is Iari Normanno from Italy, a bored student doing computer science at a
 Coding allows me to shape ideas, one bit at a time.
 
 [![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat&color=313131&label=views&abbreviated=tru)](github.com/wassupiari) [![linkedin](https://img.shields.io/badge/linkedin-313131?style=flat&labelColor=grey)](https://www.linkedin.com/in/iarinormanno/)
-[![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
+[![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/callmejarek)
 
 <br>
 
-Ever since I joined GitHub  <strong>5 </strong> years ago, I pushed <strong>452</strong> commits, opened <strong>3</strong> issues, submitted <strong>13</strong> pull requests, and contributed to <strong>2</strong> public repositories.
+Ever since I joined GitHub  <strong>5 </strong> years ago, I pushed <strong>453</strong> commits, opened <strong>3</strong> issues, submitted <strong>13</strong> pull requests, and contributed to <strong>2</strong> public repositories.
 
 
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![Java](https://img.shields.io/static/v1?logo=&label=&message=Java&color=313131&logoColor=AAA&style=flat)
-![PHP](https://img.shields.io/static/v1?logo=&label=&message=PHP&color=313131&logoColor=AAA&style=flat)
-![Other](https://img.shields.io/static/v1?logo=&label=&message=Other&color=313131&logoColor=AAA&style=flat)
+![Java](https://img.shields.io/static/v1?logo=Java&label=&message=Java&color=313131&logoColor=AAA&style=flat)
+![PHP](https://img.shields.io/static/v1?logo=PHP&label=&message=PHP&color=313131&logoColor=AAA&style=flat)
+![HTML](https://img.shields.io/static/v1?logo=HTML&label=&message=HTML&color=313131&logoColor=AAA&style=flat)
+![Python](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=313131&logoColor=AAA&style=flat)
+![Other](https://img.shields.io/static/v1?logo=Other&label=&message=Other&color=313131&logoColor=AAA&style=flat)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=313131&logoColor=AAA&style=flat)
