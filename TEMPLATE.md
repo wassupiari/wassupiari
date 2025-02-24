@@ -6,7 +6,7 @@ My name is Iari Normanno from Italy, a bored student doing computer science at a
 Coding allows me to shape ideas, one bit at a time.
 
 [![views](https://komarev.com/ghpvc/?username=wassupiari&style=flat&color=313131&label=views&abbreviated=tru)](github.com/wassupiari) [![linkedin](https://img.shields.io/badge/linkedin-313131?style=flat&labelColor=grey)](https://www.linkedin.com/in/iarinormanno/)
-[![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/wtfiari)
+[![twitter](https://img.shields.io/badge/twitter-313131?style=flat&logo=x&labelColor=grey)](https://twitter.com/callmejarek)
 
 <br>
 
@@ -15,8 +15,8 @@ Ever since I joined GitHub  <strong>{{ ACCOUNT_AGE }} </strong> years ago, I pus
 
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-{{ LANGUAGE_TEMPLATE_START:max=3 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?logo=&label=&message={{LANGUAGE_NAME:uri}}&color=313131&logoColor=AAA&style=flat)
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?logo={{LANGUAGE_NAME:uri}}&label=&message={{LANGUAGE_NAME:uri}}&color=313131&logoColor=AAA&style=flat)
 {{ LANGUAGE_TEMPLATE_END }}
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
