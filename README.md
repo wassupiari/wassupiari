@@ -10,7 +10,7 @@ Coding allows me to shape ideas, one bit at a time.
 
 <br>
 
-Ever since I joined GitHub  <strong>5 </strong> years ago, I pushed <strong>453</strong> commits, opened <strong>3</strong> issues, submitted <strong>13</strong> pull requests, and contributed to <strong>1</strong> public repositories.
+Ever since I joined GitHub  <strong>6 </strong> years ago, I pushed <strong>453</strong> commits, opened <strong>3</strong> issues, submitted <strong>13</strong> pull requests, and contributed to <strong>1</strong> public repositories.
 
 
 
